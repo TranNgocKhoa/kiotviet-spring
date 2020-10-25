@@ -1,0 +1,9 @@
+kiotviet:
+  authentication-url: https://id.kiotviet.vn/connect/token
+  public-url: https://public.kiotapi.com
+  retailer: khoa2020
+  scope: PublicApi.Access
+  grant-type: client_credentials
+  client-id: 2c220e80-df4b-41a5-a7f4-5bdd931cafaf
+  client-secret: 93180574A0A5F9CC5DFFA3A58C063FEA31E3945B
+
